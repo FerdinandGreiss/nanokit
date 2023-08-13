@@ -1,7 +1,6 @@
 # nanokit
-Processing and analysis of protein expression spots from single DNA
 
-### Detect and analyse protein synthesis spots from single DNA molecules immobilized on a surface
+### Process movies and analyse protein synthesis spots from single DNA molecules immobilized on a surface
 
 This repository contains two simple Python scripts
 
