@@ -9,6 +9,17 @@ This repository contains two Python scripts to perform these jobs:
 
 Detailed descriptions of how to run and what output these scripts generate are given in the Python files.
 
+### Experimental raw data
+
+The corresponding raw data to use this code for is provided at [Zenodo](https://zenodo.org/doi/10.5281/zenodo.8359539).
+
+### Systems requirements
+
+This code for drift correction was tested on a personal Apple laptop and Windows computer. The data analysis was only tested on a personal Apple laptop (Mac OS 11.2.2), programmed with Visual Studio Code v1.82.2, and run with Python 3.7.3.
+
+The dependencies are:
+-
+
 ### Contributions
 
 If you have suggestions, questions, or any other reason to contact me, ferdinand.greiss@weizmann.ac.il
