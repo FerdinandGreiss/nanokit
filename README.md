@@ -13,12 +13,15 @@ Detailed descriptions of how to run and what output these scripts generate are g
 
 The corresponding raw data to use this code for is provided at [Zenodo](https://zenodo.org/doi/10.5281/zenodo.8359539).
 
-### Systems requirements
+### Installation and systems requirements
+
+I recommend to install the required packages with [Conda](https://docs.conda.io/en/latest/). 
 
 This code for drift correction was tested on a personal Apple laptop and Windows computer. The data analysis was only tested on a personal Apple laptop (Mac OS 11.2.2), programmed with Visual Studio Code v1.82.2, and run with Python 3.7.3.
 
-The dependencies are:
--
+### Instructions
+
+Detailed instructions to run the code are provided in the Python files as multi-line docstring. More specific explanations of the code is given as comments along the code. On a personal laptop, the drift correction usually runs for ~1 min; the data analysis can run for ~5 mins. 
 
 ### Contributions
 
